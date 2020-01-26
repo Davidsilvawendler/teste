@@ -1,0 +1,13 @@
+{
+  "name": "railite",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.1",
+     "@rails/webpacker": "3.5",
+    "bulma": "^0.8.0",
+    "jquery": "^3.4.1"
+  }
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
